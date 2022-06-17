@@ -1,0 +1,20 @@
+{
+  "name": "maco",
+  "version": "0.1.93",
+  "description": "A bunda framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "chai server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "maco",
+    "backend",
+    "backi"
+  ],
+  "author": "kohasummons",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
